@@ -1,0 +1,21 @@
+[global]
+showWarningOnDirectExecution = true
+
+[logger]
+level = "debug"
+
+[runner]
+magicEnabled = true
+
+[server]
+folderWatchBlacklist = ['']
+headless = true
+liveSave = false
+runOnSave = false
+port = 80
+enableCORS = false
+
+[browser]
+serverAddress = "0.0.0.0"
+gatherUsageStats = true
+serverPort = 80
