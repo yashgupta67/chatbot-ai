@@ -24,9 +24,4 @@ To run this application, you need the following:
 - google.generativeai
 - python-dotenv
 
-## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/chatbot.git
-   cd chatbot/ai
